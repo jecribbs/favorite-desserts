@@ -1,2 +1,3 @@
 # favorite-desserts
-Listing team favorite desserts
+
+- Jenny: chocolate mousse 
