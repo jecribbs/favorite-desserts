@@ -4,3 +4,5 @@
 - Michelle: fruit tarts
 - Ruth: pie
 - Julien: crepes
+- Joseph: cheesecake
+- Jim: ice cream
