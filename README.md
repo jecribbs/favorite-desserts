@@ -5,4 +5,6 @@
 - Ruth: pie
 - Julien: ice cream
 - Eliott: chocolate
+- Joseph: cheesecake
+- Jim: ice cream
 
